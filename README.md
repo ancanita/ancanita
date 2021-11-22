@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ancanita
-- 👀 I’m interested in Identity, Security, Infrastructures.
+- 👀 I’m interested in Identity, Security, Infrastructure ...
 - 🌱 I’m currently learning Azure Monitor - Azure Sentinel - Azure Denfender for Cloud
 - 💞️ I’m looking to collaborate on Azure Monitor - Azure Sentinel - Azure Denfender for Cloud
 - 📫 How to reach me? Send an email to: antonio.canitano@microsoft.com
